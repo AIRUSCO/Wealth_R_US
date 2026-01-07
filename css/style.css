@@ -45,7 +45,7 @@ p {
 }
 
 a {
-	color: #285DA2;
+	color: #bd0000;
 	font-weight: 600;
 	text-decoration: none !important;
 	outline: none !important;
@@ -65,12 +65,12 @@ a.black-blue {
 }
 
 a#blue-black {
-	color: #285DA2;
+	color: #bd0000;
 	font-size: 25px;
 }
 
 a.black-blue:hover {
-	color: #285DA2;
+	color: #bd0000;
 }
 
 a#blue-black:hover {
@@ -355,7 +355,7 @@ button:focus {
 
 .first-nav_contact {
 	overflow: visible;
-	background-color: #02264d;
+	background-color: #bd0000;
 	height: 42px;
 }
 
@@ -462,7 +462,7 @@ span.first-nav_contact-icon img:hover {
 }
 
 .top-header .navbar .navbar-collapse ul li a:hover {
-	color: #285DA2;
+	color: #bd0000;
 	transform: scale(1.07);
 }
 
@@ -478,7 +478,7 @@ a.navbar-brand img {
 
 .top-header .navbar .navbar-collapse ul li a:focus {
 	background: transparent;
-	color: #285DA2;
+	color: #bd0000;
 }
 
 .top-header .navbar .navbar-collapse ul li {
@@ -511,7 +511,7 @@ a.navbar-brand img {
 }
 
 .navbar-toggler span {
-	background: #285DA2;
+	background: #bd0000;
 	display: block;
 	width: 22px;
 	height: 2px;
@@ -576,7 +576,7 @@ a.navbar-brand img {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: #285DA2;
+	background: #bd0000;
 }
 
 .search-icon {
@@ -650,7 +650,7 @@ a.navbar-brand img {
 }
 
 .lbox-details p strong {
-	color: #285DA2;
+	color: #bd0000;
 	font-size: 40px;
 	font-family: 'Montserrat', sans-serif;
 }
@@ -667,7 +667,7 @@ a.navbar-brand img {
 }
 
 .lbox-details a.btn:hover {
-	background: #285DA2;
+	background: #bd0000;
 }
 
 .pogoSlider-slide {
@@ -679,7 +679,7 @@ a.navbar-brand img {
 }
 
 .pogoSlider-nav-btn--selected {
-	background: #285DA2 !important;
+	background: #bd0000 !important;
 }
 
 .pogoSlider--navBottom .pogoSlider-nav {
@@ -729,7 +729,7 @@ a.navbar-brand img {
 	width: 200px;
     height: 60px;
     background: #FFF;
-    color: #285DA2;
+    color: #bd0000;
     float: left;
     line-height: 60px;
     text-align: center;
@@ -741,7 +741,7 @@ a.navbar-brand img {
 }
 
 .home_bt:hover {
-	background: #285DA2;
+	background: #bd0000;
 	color: #E8E8E8;
 	transform: scale(1.05);
 }
@@ -794,7 +794,7 @@ a.navbar-brand img {
 }
 
 .tab_menu ul li:nth-child(6) {
-    background: #285DA2;
+    background: #bd0000;
 	color:#fff;
 }
 
@@ -857,7 +857,7 @@ iframe.sophos {
 .tooltip-1 {
 	display: inline-block;
 	position: relative;
-	color: #285DA2;
+	color: #bd0000;
 	opacity: 1;
 }
 
@@ -975,7 +975,7 @@ iframe.sophos {
 a.hvr-radial-out:hover,
 a.hvr-radial-out:focus {
 	transform: scale(1.1);
-	color: #285DA2;
+	color: #bd0000;
 }
 
 /*------------------------------------------------------------------ Services -------------------------------------------------------------------*/
@@ -1604,7 +1604,7 @@ p.count-text {
 	background: #fff;
 	margin: 0 7%;
 	padding: 0;
-	color: #285DA2;
+	color: #bd0000;
 	text-align: center;
 	min-height: 70px;
 	line-height: 70px !important;
@@ -1699,8 +1699,8 @@ label.field-text {
 
 #submit-button:hover {
 	border-radius: 30px;
-	border-color: #285DA2;
-	color: #285DA2;
+	border-color: #bd0000;
+	color: #bd0000;
 	background-color: transparent;
 	transform: scale(1.05);
 }
@@ -1770,7 +1770,7 @@ label.field-text {
 }
 
 .submit-button .btn-common {
-	background-color: #285DA2;
+	background-color: #bd0000;
 	height: 45px;
 	line-height: 45px;
 	font-size: 14px;
@@ -2365,7 +2365,7 @@ section.inner_banner h1 {
 }
 
 .contact_form button {
-    background: #285DA2;
+    background: #bd0000;
     border: none;
     color: #fff;
     width: 200px;
@@ -2381,7 +2381,7 @@ section.inner_banner h1 {
 .contact_form button:hover,
 .contact_form button:focus {
 	background: #B4B4B4;
-	color: #285DA2;
+	color: #bd0000;
 }
 .table_border table tr th, 
 .table_border table tr td{border: 1px solid black;padding: 10px;}
@@ -2391,10 +2391,10 @@ section.inner_banner h1 {
     padding-left: 10px;
 }
 .pdfdownloadbtn{
-	border: 1px solid #285da2;
+	border: 1px solid #bd0000;
     float: right;
     background: white;
-    color: #285da2;
+    color: #bd0000;
     padding: 5px 8px;
 	cursor: pointer;
 }
